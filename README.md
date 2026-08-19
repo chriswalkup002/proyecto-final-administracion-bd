@@ -23,4 +23,12 @@ _Se implementa una base de datos para una biblioteca para la correcta gestión d
 ## Explicación de las pruebas
 - Se adjuntan en cada archivo.
 
-- 
+## [Enlace a la sección teórica de MongoDB](https://github.com/chriswalkup002/proyecto-final-administracion-bd/tree/main/teoria_mongodb/fundamentos.md)
+
+## Conclusiones
+
+## Fuentes consultadas
+- PostgreSQL Global Development Group. (2026). Constraints. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/ddl-constraints.html
+- PostgreSQL Global Development Group. (2026). CREATE TABLE. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/sql-createtable.html
+- PostgreSQL Global Development Group. (2026). SELECT. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/sql-select.html
+- PostgreSQL Global Development Group. (2026). COPY. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/sql-copy.html
