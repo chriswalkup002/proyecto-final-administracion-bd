@@ -9,9 +9,9 @@ MongoDB es un sistema de gestión de base de datos NoSQL orientado a documentos.
 
 ## ¿Qué es una colección, documento y campo?
 ---
-Colección: son documentos relacionados. Es similar a las tablas de las bases de datos relacionales.<br>
-Documento: es un registro individual almacenado en una colección. Su estructura es de pares clave-valor.<br>
-Campo: es una propiedad dentro de un documento. Es similar a la columna en las tablas de las bases de datos relacionales.
+- Colección: son documentos relacionados. Es similar a las tablas de las bases de datos relacionales.
+- Documento: es un registro individual almacenado en una colección. Su estructura es de pares clave-valor.
+- Campo: es una propiedad dentro de un documento. Es similar a la columna en las tablas de las bases de datos relacionales.
 
 ## ¿Cuáles son las diferencias principales entre una tabla relacional y una colección de documentos?
 ---
