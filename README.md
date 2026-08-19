@@ -32,3 +32,5 @@ _Se implementa una base de datos para una biblioteca para la correcta gestión d
 - PostgreSQL Global Development Group. (2026). CREATE TABLE. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/sql-createtable.html
 - PostgreSQL Global Development Group. (2026). SELECT. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/sql-select.html
 - PostgreSQL Global Development Group. (2026). COPY. PostgreSQL Documentation. Recuperado el 16/08/2026. https://www.postgresql.org/docs/current/sql-copy.html
+
+_Se ha hecho uso de la Inteligencia Artificial como herramienta auxiliar en la consulta de dudas específicas en el proceso de desarrollo de ciertas partes del proyecto._
