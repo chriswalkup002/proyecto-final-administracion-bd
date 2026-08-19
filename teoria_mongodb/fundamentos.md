@@ -51,7 +51,7 @@ MongoDB conviene cuando los datos tienen una estructura variable, cuando se nece
 ---
 Para nuestro sistema de biblioteca, podríamos utilizar MongoDB para almacenar información complementaria de los libros, datos que varíen entre diferentes ejemplares (etiquetas, reseñas, palabras clave, información editorial, metadatos, etc.). Mongo sería útil porque esa información puede tener diferentes características dependiendo del libro y no necesita estructurarse uniformemente.
 
-## Ejemplo sencillo de cómo se vería un registro del proyecto como documento JSON.
+## Ejemplo sencillo de cómo se vería un registro del proyecto como documento JSON
 ---
 ```
 {
