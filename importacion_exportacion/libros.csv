@@ -1,0 +1,11 @@
+id_libro,titulo,autor,año_publicacion,genero,ejemplares_disponibles,ejemplares_totales,editorial,id_categoria
+1,El Cantar de Mio Cid,Anonimo,1200,Epica,10,20,Cervantes,1
+2,Las Mil y Una Noches,Varios autores,1000,Cuento,2,10,Islamica,2
+3,Historia Verdadera de la Conquista de la Nueva Espania,Bernal Diaz del Castillo,1632,Historia,1,2,Cervantes,3
+4,Don Quijote de la Mancha,Miguel de Cervantes Saavedra,1605,Novela,20,22,Cervantes,4
+5,El Lenguaje de Programacion C++,Bjarne Stroustrup,2002,Tecnologia,1,1,Addison-Wesley Pub Co,5
+6,La Odisea,Homero,,Epica,10,20,Griegos,1
+7,Caperucita Roja,Charles Perrault,1697,Cuento,20,50,Clasicos,2
+8,Aztecas,Eduardo Matos Moctezuma,2002,Historia,1,5,INAH,3
+9,El Senior de los Anillos,J. R. R. Tolkien,1954,Novela,1,2,George Allen & Unwin HarperCollins,4
+10,Fundamentos de los Microprocesadores,Roger L. Tokheim,1990,Tecnologia,2,4,Planeta,5
