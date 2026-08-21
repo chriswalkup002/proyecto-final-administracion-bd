@@ -56,6 +56,7 @@ Para nuestro sistema de biblioteca, podríamos utilizar MongoDB para almacenar i
 ```
 {
     "_id": 1,
+    "titulo": "El Cantar de Mio Cid",
     "autor": "Anonimo",
     "anio_publicacion": 1200,
     "categoria": {
